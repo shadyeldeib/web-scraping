@@ -7,7 +7,8 @@ This repository contains a Jupyter Notebook (web\_scrapying\_e\_commerce\_compan
 The primary objective of this project is to:
 
 * Extract structured data from web pages related to e-commerce companies, including a **web scrape of the top 100 e-commerce companies in Egypt**.  
-* Gather information on individuals working in the e-commerce sector, specifically **790 records of people working in e-commerce from LinkedIn, obtained using the Google Search API**.  
+* Gather information on individuals working in the e-commerce sector, specifically **790 records of people working in e-commerce from LinkedIn, obtained using the Google Search API**.
+* Leveraged NLP techniques to programmatically generate query variations for the Google Search API (e.g., building upon a base query like "site:linkedin.com/in E-commerce Companies in Egypt").  
 * Clean and transform the extracted raw data into a usable format.  
 * Export the cleaned dataset to an Excel file, ensuring proper encoding for multi-language support (specifically Arabic text).
 
