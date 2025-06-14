@@ -25,6 +25,7 @@ The project is built using Python and leverages several powerful libraries:
 * **pandas**: A fundamental library for data manipulation and analysis, used for creating and processing DataFrames.  
 * **xlsxwriter**: A Python module that allows you to write files in the Excel 2007+ XLSX file format. It's particularly useful for handling character encoding for non-ASCII text.  
 * **Google Search API**: Utilized for querying and extracting relevant LinkedIn profiles.
+* **Natural Language Processing (NLP) techniques**: Applied for programmatic generation of search query variations.
 
 ## **🏃 Usage**
 
